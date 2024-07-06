@@ -1,4 +1,4 @@
-#### Predicting Hiring Decision PowerBI Dashboard
+#### Predicting Hiring Decision using PowerBI Dashboard
 This project involves creating an interactive and insightful dashboard using Power BI to visualize and analyze recruitment data. The dashboard is built using a CSV file containing detailed recruitment information, allowing stakeholders to gain valuable insights into the recruitment process, identify trends, and make data-driven decisions.
 ##### 1.Age: Age of the candidate.
 ##### 2.Gender: Gender of the candidate.
